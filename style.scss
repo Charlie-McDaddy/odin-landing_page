@@ -29,10 +29,13 @@
 
   &-placeholder {
     background-color: $text-color-light-gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     &-text {
       color: $text-color-white;
       font-weight: 600;
-      text-align: center;
     }
   }
 }

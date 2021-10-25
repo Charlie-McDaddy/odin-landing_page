@@ -239,11 +239,13 @@ table {
 }
 .hero-placeholder {
   background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .hero-placeholder-text {
   color: #f9faf8;
   font-weight: 600;
-  text-align: center;
 }
 
 .main,
