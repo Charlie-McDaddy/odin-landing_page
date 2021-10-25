@@ -1,0 +1,35 @@
+{
+  "editor.fontSize": 14,
+  "window.zoomLevel": 1.5,
+  "files.autoSave": "off",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "material-icon-theme",
+  "prettier.singleQuote": true,
+  "javascript.format.semicolons": "insert",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.linkedEditing": true,
+  "terminal.integrated.fontSize": 18,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "prettier.jsxSingleQuote": true,
+  "C_Cpp.vcFormat.space.beforeFunctionOpenParenthesis": "insert",
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+  "liveServer.settings.CustomBrowser": "firefox",
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": null
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false
+}

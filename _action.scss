@@ -1,0 +1,28 @@
+.action {
+  background-color: white;
+  padding: 3rem 8rem;
+}
+
+.blue {
+  background-color: $blue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  padding: 3rem 6rem;
+
+  &-heading {
+    color: $text-color-white;
+    font-size: 24px;
+    font-weight: 800;
+  }
+
+  &-text {
+    color: $text-color-light-gray;
+    font-size: 18px;
+  }
+
+  &-btn {
+    border-color: $text-color-white;
+    cursor: pointer;
+  }
+}
